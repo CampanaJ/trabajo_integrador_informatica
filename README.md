@@ -29,17 +29,6 @@ Se desarrolló una aplicación de consola que permite al usuario crear o usar li
 
 ---
 
-## 📂 Estructura del Proyecto
-
-```
-📁 ProyectoBusqueda
-├── busqueda.py     # Código principal con funciones y lógica de búsqueda
-├── README.md       # Archivo descriptivo del proyecto
-└── Trabajo Integrador - Programación I.pdf  # Enunciado del trabajo
-```
-
----
-
 ## 🧠 Funcionalidades Principales
 
 - Opción para crear una lista personalizada o usar una lista por defecto.
@@ -55,8 +44,7 @@ Se desarrolló una aplicación de consola que permite al usuario crear o usar li
 1. Asegurarse de tener **Python 3** instalado.
 2. Ejecutar el script desde la terminal o un IDE:
 
-```bash
-python busqueda.py
+```python3 busqueda.py
 ```
 
 3. Seguir las instrucciones en pantalla:
