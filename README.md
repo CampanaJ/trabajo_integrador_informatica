@@ -67,7 +67,7 @@ Este trabajo nos permitió:
 
 ## 📽️ Video Explicativo
 
-👉 [Enlace al video en YouTube o plataforma asignada] *(Agregar el enlace una vez disponible)*
+👉 https://youtu.be/FOPMoAV6sf4
 
 ---
 
